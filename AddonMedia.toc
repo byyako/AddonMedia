@@ -3,7 +3,7 @@
 ## DefaultState: enabled
 ## Notes: Addon stub for AddonMediaManager App
 ## Author: Hiretsubaka-Wyrmrest Accord
-## Version: 1.0.0
+## Version: 1.0.2
 
 embeds.xml
 main.lua
